@@ -1,0 +1,10 @@
+Github Pages: hosting
+
+DNS: Cloudfare
+
+Icons: Bootstrap
+
+Font(s): Abel [google fonts]
+
+
+-----------------------------------------------------------------------
