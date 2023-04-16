@@ -61,39 +61,11 @@ const swiper = createSwiper(".swiper1");
 
 const staffMembers = [
   {
-    "name": "Grailmit",
-    "tag": "3114",
-    "full_name": "Grailmit#3114",
-    "avatar": "/assets/img/admin/grailmit.png",
-    "role": "Owner"
-  },
-  {
-    "name": "Optid2",
-    "tag": "7706",
-    "full_name": "Optid2#7706",
-    "avatar": "/assets/img/admin/optid2.png",
-    "role": "Owner"
-  },
-  {
-    "name": "Satindar",
-    "tag": "2927",
-    "full_name": "Satindar#2927",
-    "avatar": "/assets/img/admin/satindar.png",
-    "role": "Co-Owner"
-  },
-  {
-    "name": "TitanGamerOP",
-    "tag": "3937",
-    "full_name": "TitanGamerOP#3937",
-    "avatar": "/assets/img/admin/titangamerOP.png",
-    "role": "Admin"
-  },
-  {
-    "name": "Chill31",
-    "tag": "6466",
-    "full_name": "Chill31#6466",
-    "avatar": "/assets/img/admin/chill31.png",
-    "role": "Website Developer"
+    "name": "Parr0t",
+    "tag": "2962",
+    "full_name": "Parr0t#2962",
+    "avatar": "/assets/img/admin/parr0t.png",
+    "role": "Admin and Member"
   }
 ]
 

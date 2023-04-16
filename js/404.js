@@ -5,5 +5,5 @@ homeBtn.addEventListener("click", () => {
 
 const discordBtn = document.querySelector(".btn-discord");
 discordBtn.addEventListener("click", () => {
-  redirect("https://discord.gg/jeeDT9PjHD");
+  redirect("https://discord.gg");
 });
