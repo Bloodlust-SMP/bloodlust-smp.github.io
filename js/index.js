@@ -53,7 +53,7 @@ sectionHeaders.forEach(header => {
 
 const copyIPBtn = document.querySelector(".btn__copyIP");
 copyIPBtn.addEventListener("click", () => {
-  copyText("join.mercitysmp.cf");
+  copyText("*placeholder*");
   notify("Copied server IP", "success");
 });
 
