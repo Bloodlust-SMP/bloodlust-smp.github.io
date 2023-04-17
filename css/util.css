@@ -5,8 +5,8 @@
 
 :root {
   --accent: #2e333b;
-  --secondary: #00aaff;
-  --selection: #92d2e8;
+  --secondary: #92d2e8;
+  --selection: #6dddbd;
   --section-height: 700px;
 }
 
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #notification-area .notification.success {
-  background: #00aaff;
+  background: #49cc7b;
 }
 #notification-area .notification.error {
   background: rgb(190, 51, 0);
