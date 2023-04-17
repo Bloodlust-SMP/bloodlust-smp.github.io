@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #notification-area .notification.success {
-  background: #49cc7b;
+  background: #00aaff;
 }
 #notification-area .notification.error {
   background: rgb(190, 51, 0);
