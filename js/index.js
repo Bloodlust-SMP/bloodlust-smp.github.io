@@ -66,6 +66,13 @@ const staffMembers = [
     "full_name": "Parr0t#2962",
     "avatar": "/assets/img/admin/Parr0t.png",
     "role": "Admin and Member"
+  },
+  {
+    "name": "Bluewhalesharks",
+    "tag": "9920",
+    "full_name": "Bluewhalesharks#9920",
+    "avatar": "/assets/img/admin/Bluewhalesharks.png",
+    "role": "Admin and Member"
   }
 ]
 
