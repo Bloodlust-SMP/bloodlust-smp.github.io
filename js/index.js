@@ -53,7 +53,7 @@ sectionHeaders.forEach(header => {
 
 const copyIPBtn = document.querySelector(".btn__copyIP");
 copyIPBtn.addEventListener("click", () => {
-  copyText("*placeholder*");
+  copyText("bloodlustsmp.mc-server.pro");
   notify("Copied server IP", "success");
 });
 
