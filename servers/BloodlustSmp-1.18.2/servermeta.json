@@ -1,16 +1,16 @@
 {
   "$schema": "file:///C:/Users/Liya/Downloads/Nebula-master/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "BloodlustSmp (Minecraft 1.18.2)",
+    "version": "2.0.0",
+    "name": "Bloodlust Smp",
     "description": "BloodlustSmp Running Minecraft 1.18.2 (Forge v40.2.2)",
-    "address": "localhost:25565",
+    "address": "bloodlustsmp.mcserver.us",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "1102093367929745438",
+      "largeImageText": "Bloodlust Smp",
+      "largeImageKey": "small"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {
